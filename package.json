@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/prasanjitachary239/DevopsLearning/issues"
   },
-  "homepage": "https://github.com/prasanjitachary239/DevopsLearning#readme"
+  "homepage": "https://github.com/prasanjitachary239/DevopsLearning#readme",
+  "publishConfig": {
+  "@prasanjitachary239:registry": "https://npm.pkg.github.com"
+}
 }
