@@ -1,0 +1,19 @@
+{
+  "name": "@prasanjitachary239/devopslearning",
+  "version": "1.0.0",
+  "description": "devopslearning",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanjitachary239/DevopsLearning.git"
+  },
+  "author": "prasanjit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasanjitachary239/DevopsLearning/issues"
+  },
+  "homepage": "https://github.com/prasanjitachary239/DevopsLearning#readme"
+}
